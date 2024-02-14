@@ -1,0 +1,3 @@
+node_modules
+private-cred.json
+*.env*
